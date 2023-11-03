@@ -1,2 +1,2 @@
 # jojonick.github.io
-the galeria
+the galleria
